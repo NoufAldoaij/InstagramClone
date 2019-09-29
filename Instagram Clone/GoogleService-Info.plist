@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>418849673915-o2eglud1jem3vnq8q64q0eilp5ctovql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.418849673915-o2eglud1jem3vnq8q64q0eilp5ctovql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJ20dWM_F1___7eFy7Vvrm3fdD5rfnHxM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>418849673915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nouflearn.com.Instagram-Clone</string>
+	<key>PROJECT_ID</key>
+	<string>instagramclone-ddd18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instagramclone-ddd18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:418849673915:ios:5804545eb601c045bb8f9e</string>
+	<key>DATABASE_URL</key>
+	<string>https://instagramclone-ddd18.firebaseio.com</string>
+</dict>
+</plist>
